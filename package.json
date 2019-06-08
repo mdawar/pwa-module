@@ -27,7 +27,7 @@
     "collectCoverage": true
   },
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-eslint": "^10.0.1",
     "codecov": "^3.5.0",
     "eslint": "^5.16.0",
